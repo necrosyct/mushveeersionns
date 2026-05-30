@@ -1,0 +1,8 @@
+# Ignore all files by default to keep the source code private in this repository
+*
+
+# Allow tracking only these specific compiled distribution files
+!payload.zip
+!Mush.exe
+!version.json
+!.gitignore
